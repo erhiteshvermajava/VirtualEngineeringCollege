@@ -1,0 +1,11 @@
+Project Name: Virtual Engineering College
+
+Started on March, 2018....<Under Progress>
+
+This project hold following sections:-
+1. Email System.
+2. Bank Management.
+3. Library Management.
+4. HR-Placement Cell.
+5. Computer Based Internal Examination System.
+6. Feedback System and more.
